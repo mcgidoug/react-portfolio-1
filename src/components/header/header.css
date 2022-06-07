@@ -29,6 +29,8 @@ header {
     position: absolute;
     left: 0;
     bottom: 3rem;
+    /* fixed flush against side */
+    margin-left: 2rem;
 }
 
 .header__socials::after {
@@ -41,7 +43,7 @@ header {
 /* ME */
 
 .me {
-    background: var(--color-primary);
+    /* background: var(--color-primary); */
     width: 22rem;
     /* height: 30rem; */
     position: absolute;

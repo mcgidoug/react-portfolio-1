@@ -38,7 +38,9 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/darkblue-water-3.jpg);
+    background-image: url(../src/assets/red-sands-2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /*  GEN STYLES */
@@ -58,6 +60,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, section > h5 {
@@ -108,6 +111,8 @@ img {
     display: block;
     width: 100%;
     object-fit: cover;
+    /* rounded avatar icon fix */
+    border-radius: 10px;
 }
 
 /*  MEDIA QUERIES - TABLETS  */
