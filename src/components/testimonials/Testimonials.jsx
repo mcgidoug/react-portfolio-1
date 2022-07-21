@@ -1,10 +1,12 @@
-import React from 'react'
-import "./testimonials.css"
+// removed from site
 
-const Testimonials = () => {
-  return (
-    <section id="testimonials">Testimonials</section>
-  )
-}
+// import React from 'react'
+// import "./testimonials.css"
 
-export default Testimonials
+// const Testimonials = () => {
+//   return (
+//     <section id="testimonials">Testimonials</section>
+//   )
+// }
+
+// export default Testimonials
