@@ -36,8 +36,12 @@ nav a.active {
 
 @media screen and (max-width: 600px) {
   nav {
-    display: flex;
     width: max-content;
     gap: 0rem;
+  }
+  nav a {
+    padding: 0.2rem;
+    border-radius: 10%;
+    font-size: 0.7rem;
   }
 }
