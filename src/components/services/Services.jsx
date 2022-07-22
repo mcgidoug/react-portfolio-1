@@ -35,7 +35,7 @@ const Services = () => {
         {/* END OF UX/UI  */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Frontend Development</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -59,7 +59,7 @@ const Services = () => {
         {/* END OF WEB DEVELOPMENT  */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className="service__list">
             <li>

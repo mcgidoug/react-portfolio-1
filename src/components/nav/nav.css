@@ -31,3 +31,12 @@ nav a.active {
   background: var(--color-bg);
   color: var(--color-white);
 }
+
+/*  MEDIA QUERIES - MOBILE PHONES  */
+
+@media screen and (max-width: 600px) {
+  nav {
+    width: max-content;
+    gap: 0rem;
+  }
+}
