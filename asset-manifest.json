@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-1/static/css/main.a73ee2e3.css",
-    "main.js": "/react-portfolio-1/static/js/main.6c696793.js",
+    "main.css": "/react-portfolio-1/static/css/main.2f55530d.css",
+    "main.js": "/react-portfolio-1/static/js/main.603096ef.js",
     "static/media/red-sands-2.jpg": "/react-portfolio-1/static/media/red-sands-2.f331e943c0a267b2de3c.jpg",
     "static/media/person-typing-two-computers.jpg": "/react-portfolio-1/static/media/person-typing-two-computers.77663d10b2ed61d235f4.jpg",
     "static/media/phone-infront-computer-work.jpg": "/react-portfolio-1/static/media/phone-infront-computer-work.3d569365b22b160e2b98.jpg",
@@ -11,11 +11,11 @@
     "static/media/job-profile-pic.JPG": "/react-portfolio-1/static/media/job-profile-pic.351b9c61bc8c47350cb5.JPG",
     "static/media/mcgillivray-resume.pdf": "/react-portfolio-1/static/media/mcgillivray-resume.13e686a587a749514294.pdf",
     "index.html": "/react-portfolio-1/index.html",
-    "main.a73ee2e3.css.map": "/react-portfolio-1/static/css/main.a73ee2e3.css.map",
-    "main.6c696793.js.map": "/react-portfolio-1/static/js/main.6c696793.js.map"
+    "main.2f55530d.css.map": "/react-portfolio-1/static/css/main.2f55530d.css.map",
+    "main.603096ef.js.map": "/react-portfolio-1/static/js/main.603096ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.a73ee2e3.css",
-    "static/js/main.6c696793.js"
+    "static/css/main.2f55530d.css",
+    "static/js/main.603096ef.js"
   ]
 }
