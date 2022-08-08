@@ -34,7 +34,7 @@ nav a.active {
 
 /*  MEDIA QUERIES - MOBILE PHONES  */
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   nav {
     width: max-content;
     gap: 0rem;
@@ -43,5 +43,6 @@ nav a.active {
     padding: 0.2rem;
     border-radius: 10%;
     font-size: 0.7rem;
+    width: max-content;
   }
-}
+} */
