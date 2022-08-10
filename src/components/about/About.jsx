@@ -41,12 +41,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am an aspiring programmer currently enrolled at Northwestern
-            University. My educational background includes art-education and
-            multi-lingual learning. I have been teaching for the past eight
-            years and recently decided to change careers. I currently specialize
-            in HTML, CSS, and JavaScript but plan on furthering my learning on
-            other language applicable to front-end website development.
+            A Full Stack Developer with a passion for technology and a drive for
+            constant learning. With a background in art education and
+            multi-lingual learning along with 8 years of experience in the
+            field, I now plan to assimilate those skills into the tech industry.
+            Over the past year I have developed a variety of skills by working
+            on numerous front-end and back-end web apps. My current experience
+            is based in working with technologies such as HTML, JavaScript, CSS,
+            NodeJS, React, MongoDB, MySQL and many other frameworks for frontend
+            web and app development.
           </p>
 
           <a href="#contact" className="btn btn-primary">
