@@ -38,7 +38,9 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/red-sands-2.jpg);
+
+  /* PREVIOUS CODE FOR STATIC BACKGROUND */
+  /* background-image: url(../src/assets/red-sands-2.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
@@ -46,7 +48,27 @@ body {
   object-fit: contain;
   background-size: cover;
   background-attachment: fixed;
-  /* background-position: center; */
+  background-position: center; */
+
+  /* MOVING GRADIENT BACKGROUND START */
+  background: linear-gradient(-45deg, #755d56, #9e667b, #397d96, #4bad96);
+  background-size: 400% 400%;
+  background-attachment: fixed;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+  /* MOVING GRADIENT BACKGROUND END */
 }
 
 /*  GEN STYLES */
