@@ -9,16 +9,16 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Beatmaker",
+    title: "Drum Machine",
     github: "https://github.com/mcgidoug/beatmaker",
-    demo: "https://mcgidoug.github.io/beatmaker/",
+    demo: "https://mcgidoug.github.io/drum-machine/",
   },
   {
     id: 2,
     image: IMG2,
     title: "Palette Creator",
     github: "https://github.com/mcgidoug/color-palette-chooser",
-    demo: "https://mcgidoug.github.io/color-palette-chooser/",
+    demo: "https://mcgidoug.github.io/palette-creator/",
   },
   {
     id: 3,
@@ -30,9 +30,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "Art Institute Planner",
-    github: "https://github.com/NBFxSuccess/ArtInstituteProject",
-    demo: "https://youtu.be/Mc4ogrXsHGk",
+    title: "Goal Saver",
+    github: "https://github.com/mcgidoug/mern-goal-saver",
+    demo: "https://youtu.be/Ye_qcW9fFsw",
   },
 ];
 
