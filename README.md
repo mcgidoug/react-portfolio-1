@@ -15,3 +15,4 @@ https://choosealicense.com/licenses/mit/
 
 <!-- 'npm start' to run locally -->
 <!-- To update Github pages, you must first 'npm run deploy' in terminal before pushing -->
+<!-- deploy at custom domain test -->
