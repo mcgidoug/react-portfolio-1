@@ -17,7 +17,7 @@ const Header = () => {
           rel="noopener noreferrer"
           className="scroll__down"
         >
-          Midwest Dev
+          Midwest Development
         </a>
         <CTA />
         <HeaderSocial />
