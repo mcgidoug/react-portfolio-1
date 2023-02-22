@@ -10,16 +10,18 @@ const Header = () => {
       <div className="container header_container">
         <h5>My name is</h5>
         <h1>Doug McGillivray</h1>
-        <h5 className="text-light">Fullstack Developer</h5>
+        <h5 className="text-light">Frontend Developer</h5>
+        <a
+          href="https://midwest-development.vercel.app/"
+          className="scroll__down"
+        >
+          Midwest Development
+        </a>
         <CTA />
         <HeaderSocial />
         <div className="me">
           <img src={ME} alt="ME" />
         </div>
-
-        <a href="#contact" className="scroll__down">
-          Scroll Down
-        </a>
       </div>
     </header>
   );
