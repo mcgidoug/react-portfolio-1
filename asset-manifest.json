@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-1/static/css/main.9e942fac.css",
-    "main.js": "/react-portfolio-1/static/js/main.e93bbfc4.js",
+    "main.js": "/react-portfolio-1/static/js/main.0c4dea1b.js",
     "static/media/phone-infront-computer-work.jpg": "/react-portfolio-1/static/media/phone-infront-computer-work.3d569365b22b160e2b98.jpg",
     "static/media/drum-machine.jpg": "/react-portfolio-1/static/media/drum-machine.f360a9b4f19f9e80a5bb.jpg",
     "static/media/laptop-typing-wide.jpg": "/react-portfolio-1/static/media/laptop-typing-wide.145d2fcf91da6c58bb65.jpg",
@@ -11,10 +11,10 @@
     "static/media/mcgillivray-resume.pdf": "/react-portfolio-1/static/media/mcgillivray-resume.1c736402e87fb82a2720.pdf",
     "index.html": "/react-portfolio-1/index.html",
     "main.9e942fac.css.map": "/react-portfolio-1/static/css/main.9e942fac.css.map",
-    "main.e93bbfc4.js.map": "/react-portfolio-1/static/js/main.e93bbfc4.js.map"
+    "main.0c4dea1b.js.map": "/react-portfolio-1/static/js/main.0c4dea1b.js.map"
   },
   "entrypoints": [
     "static/css/main.9e942fac.css",
-    "static/js/main.e93bbfc4.js"
+    "static/js/main.0c4dea1b.js"
   ]
 }
