@@ -1,11 +1,13 @@
 # React Portfolio
 
-My current Professional React portfolio being hosted on Github Pages
+My current Professional React portfolio being hosted on Netlify
 <br/>
 <br/>
-GitHub Pages Link: https://mcgidoug.github.io/react-portfolio-1/
+[GitHub Pages Link](https://mcgidoug.github.io/react-portfolio-1/)
 <br/>
-GitHub Repository: https://github.com/mcgidoug/react-portfolio-1
+[GitHub Repository](https://github.com/mcgidoug/react-portfolio-1)
+<br/>
+[Custom Domain](https://www.dougmcgillivray.com)
 
 # License
 

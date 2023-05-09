@@ -12,7 +12,7 @@ const Header = () => {
         <h1>Doug McGillivray</h1>
         <h5 className="text-light">Frontend Developer</h5>
         <a
-          href="https://midwest-development.vercel.app/"
+          href="https://midwestdev.net"
           target="_blank"
           rel="noopener noreferrer"
           className="scroll__down"
