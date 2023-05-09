@@ -54,7 +54,7 @@ textarea {
   background: transparent;
   border: 2px solid var(--color-primary-variant);
   resize: none;
-  color: var(--color-white);
+  color: var(--color-alt-1);
 }
 
 /*  MEDIA QUERIES - TABLETS  */

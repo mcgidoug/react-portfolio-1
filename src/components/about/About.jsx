@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1 Year of Work Experience</small>
+              <small>2 Years of Work Experience</small>
             </article>
 
             <article className="about__card">
@@ -41,7 +41,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            A Full Stack Developer with a passion for technology and a drive for
+            A Software Engineer with a passion for technology and a drive for
             constant learning. With a background in art education and
             multi-lingual learning along with 8 years of experience in the
             field, I now plan to assimilate those skills into the tech industry.
