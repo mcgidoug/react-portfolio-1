@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e942fac.css",
-    "main.js": "/static/js/main.c86796ff.js",
+    "main.css": "/static/css/main.e800571e.css",
+    "main.js": "/static/js/main.2133437d.js",
     "static/media/phone-infront-computer-work.jpg": "/static/media/phone-infront-computer-work.3d569365b22b160e2b98.jpg",
     "static/media/drum-machine.jpg": "/static/media/drum-machine.f360a9b4f19f9e80a5bb.jpg",
     "static/media/laptop-typing-wide.jpg": "/static/media/laptop-typing-wide.145d2fcf91da6c58bb65.jpg",
@@ -10,11 +10,11 @@
     "static/media/job-profile-pic.JPG": "/static/media/job-profile-pic.351b9c61bc8c47350cb5.JPG",
     "static/media/resume.pdf": "/static/media/resume.5be8176afef410cb083b.pdf",
     "index.html": "/index.html",
-    "main.9e942fac.css.map": "/static/css/main.9e942fac.css.map",
-    "main.c86796ff.js.map": "/static/js/main.c86796ff.js.map"
+    "main.e800571e.css.map": "/static/css/main.e800571e.css.map",
+    "main.2133437d.js.map": "/static/js/main.2133437d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e942fac.css",
-    "static/js/main.c86796ff.js"
+    "static/css/main.e800571e.css",
+    "static/js/main.2133437d.js"
   ]
 }
