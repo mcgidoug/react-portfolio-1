@@ -1,6 +1,6 @@
 # React Portfolio
 
-My current Professional React portfolio being hosted on [Netlify](https://www.dougmcgillivray.com). Click [here](https://github.com/mcgidoug/react-portfolio-1) to view the Github repository.
+My current Professional React portfolio being hosted on [Netlify](https://www.dougmcgillivray.com).
 <br/>
 
 # License
