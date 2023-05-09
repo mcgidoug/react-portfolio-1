@@ -1,13 +1,7 @@
 # React Portfolio
 
-My current Professional React portfolio being hosted on Netlify
+My current Professional React portfolio being hosted on [Netlify](https://www.dougmcgillivray.com). Click [here](https://github.com/mcgidoug/react-portfolio-1) to view the Github repository.
 <br/>
-<br/>
-[GitHub Pages Link](https://mcgidoug.github.io/react-portfolio-1/)
-<br/>
-[GitHub Repository](https://github.com/mcgidoug/react-portfolio-1)
-<br/>
-[Custom Domain](https://www.dougmcgillivray.com)
 
 # License
 
@@ -15,10 +9,10 @@ My current Professional React portfolio being hosted on Netlify
 <br/>
 https://choosealicense.com/licenses/mit/
 
-# Run Locally
-
-`npm start` will run this page locally
-
 # Pushing to Github
 
 To update Github pages, you must first enter `npm run deploy` command in terminal before pushing
+
+# Run Locally
+
+`npm start` will run this page locally
