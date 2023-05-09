@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio-1/static/css/main.9e942fac.css",
-    "main.js": "/react-portfolio-1/static/js/main.996d3aaa.js",
-    "static/media/phone-infront-computer-work.jpg": "/react-portfolio-1/static/media/phone-infront-computer-work.3d569365b22b160e2b98.jpg",
-    "static/media/drum-machine.jpg": "/react-portfolio-1/static/media/drum-machine.f360a9b4f19f9e80a5bb.jpg",
-    "static/media/laptop-typing-wide.jpg": "/react-portfolio-1/static/media/laptop-typing-wide.145d2fcf91da6c58bb65.jpg",
-    "static/media/perfourmer-pic.JPG": "/react-portfolio-1/static/media/perfourmer-pic.556e1818f23e07914f31.JPG",
-    "static/media/color-sheets.jpg": "/react-portfolio-1/static/media/color-sheets.47e65f8d425b4c7d6f3d.jpg",
-    "static/media/job-profile-pic.JPG": "/react-portfolio-1/static/media/job-profile-pic.351b9c61bc8c47350cb5.JPG",
-    "static/media/resume.pdf": "/react-portfolio-1/static/media/resume.5be8176afef410cb083b.pdf",
-    "index.html": "/react-portfolio-1/index.html",
-    "main.9e942fac.css.map": "/react-portfolio-1/static/css/main.9e942fac.css.map",
-    "main.996d3aaa.js.map": "/react-portfolio-1/static/js/main.996d3aaa.js.map"
+    "main.css": "/static/css/main.9e942fac.css",
+    "main.js": "/static/js/main.c86796ff.js",
+    "static/media/phone-infront-computer-work.jpg": "/static/media/phone-infront-computer-work.3d569365b22b160e2b98.jpg",
+    "static/media/drum-machine.jpg": "/static/media/drum-machine.f360a9b4f19f9e80a5bb.jpg",
+    "static/media/laptop-typing-wide.jpg": "/static/media/laptop-typing-wide.145d2fcf91da6c58bb65.jpg",
+    "static/media/perfourmer-pic.JPG": "/static/media/perfourmer-pic.556e1818f23e07914f31.JPG",
+    "static/media/color-sheets.jpg": "/static/media/color-sheets.47e65f8d425b4c7d6f3d.jpg",
+    "static/media/job-profile-pic.JPG": "/static/media/job-profile-pic.351b9c61bc8c47350cb5.JPG",
+    "static/media/resume.pdf": "/static/media/resume.5be8176afef410cb083b.pdf",
+    "index.html": "/index.html",
+    "main.9e942fac.css.map": "/static/css/main.9e942fac.css.map",
+    "main.c86796ff.js.map": "/static/js/main.c86796ff.js.map"
   },
   "entrypoints": [
     "static/css/main.9e942fac.css",
-    "static/js/main.996d3aaa.js"
+    "static/js/main.c86796ff.js"
   ]
 }
