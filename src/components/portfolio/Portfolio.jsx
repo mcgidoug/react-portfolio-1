@@ -25,16 +25,16 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Lupita's HVAC",
+    title: "Lupita HVAC",
     // github: "https://github.com/mcgidoug/mern-book-store",
-    demo: "https://lupitas-hvac.netlify.app/",
+    demo: "https://lupitahvac.com/",
   },
   {
     id: 4,
     image: IMG4,
     title: "Arzet Home",
     // github: "https://github.com/mcgidoug/mern-goal-saver",
-    demo: "https://arzethomeimprovement.com/index.html",
+    demo: "https://arzethomeimprovement.com/",
   },
   {
     id: 5,
