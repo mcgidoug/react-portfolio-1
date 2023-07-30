@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e800571e.css",
-    "main.js": "/static/js/main.af644d74.js",
+    "main.js": "/static/js/main.948df397.js",
     "static/media/easy-light.png": "/static/media/easy-light.add230b6cf4538afb000.png",
     "static/media/autentik.png": "/static/media/autentik.d0e84ab5d4e507f25071.png",
     "static/media/claudineco.png": "/static/media/claudineco.0d4754e97f50f9918b15.png",
@@ -10,13 +10,13 @@
     "static/media/job-profile-pic.JPG": "/static/media/job-profile-pic.351b9c61bc8c47350cb5.JPG",
     "static/media/bomba-portfolio.png": "/static/media/bomba-portfolio.0fac90400558aa46d936.png",
     "static/media/lupita-hvac.png": "/static/media/lupita-hvac.dad07a8e8cbc3c75c3cb.png",
-    "static/media/resume.pdf": "/static/media/resume.114bb88365d4394c0a96.pdf",
+    "static/media/resume.pdf": "/static/media/resume.142c8fd2dec40ea8a655.pdf",
     "index.html": "/index.html",
     "main.e800571e.css.map": "/static/css/main.e800571e.css.map",
-    "main.af644d74.js.map": "/static/js/main.af644d74.js.map"
+    "main.948df397.js.map": "/static/js/main.948df397.js.map"
   },
   "entrypoints": [
     "static/css/main.e800571e.css",
-    "static/js/main.af644d74.js"
+    "static/js/main.948df397.js"
   ]
 }
