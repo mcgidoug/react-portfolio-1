@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e800571e.css",
-    "main.js": "/static/js/main.2ab8b90c.js",
+    "main.js": "/static/js/main.cb6e5fb3.js",
     "static/media/easy-light.png": "/static/media/easy-light.add230b6cf4538afb000.png",
     "static/media/autentik.png": "/static/media/autentik.d0e84ab5d4e507f25071.png",
     "static/media/claudineco.png": "/static/media/claudineco.0d4754e97f50f9918b15.png",
@@ -10,13 +10,13 @@
     "static/media/perfourmer-pic.JPG": "/static/media/perfourmer-pic.556e1818f23e07914f31.JPG",
     "static/media/bomba-portfolio.png": "/static/media/bomba-portfolio.0fac90400558aa46d936.png",
     "static/media/lupita-hvac.png": "/static/media/lupita-hvac.dad07a8e8cbc3c75c3cb.png",
-    "static/media/resume.pdf": "/static/media/resume.142c8fd2dec40ea8a655.pdf",
+    "static/media/resume.pdf": "/static/media/resume.e34e60f63b0aa289f436.pdf",
     "index.html": "/index.html",
     "main.e800571e.css.map": "/static/css/main.e800571e.css.map",
-    "main.2ab8b90c.js.map": "/static/js/main.2ab8b90c.js.map"
+    "main.cb6e5fb3.js.map": "/static/js/main.cb6e5fb3.js.map"
   },
   "entrypoints": [
     "static/css/main.e800571e.css",
-    "static/js/main.2ab8b90c.js"
+    "static/js/main.cb6e5fb3.js"
   ]
 }
